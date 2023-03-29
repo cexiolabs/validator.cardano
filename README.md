@@ -1,3 +1,4 @@
 # validator.cardano
 Cardano validator public data
-Initial data change
+
+https://cexplorer.io/groups/cex
